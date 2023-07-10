@@ -1,7 +1,8 @@
 # Table of contents
 
 * [wiki](README.md)
-* [Page 1](page-1.md)
+* [Page 1](page-1/README.md)
+  * [Page 4](page-1/page-4.md)
 
 ## Group 1
 
